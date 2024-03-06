@@ -1,5 +1,3 @@
 library(igraph)
-
-git config --global user.email "atrejo52@alumnos.uaq.mx"
-git config --global user.name "Aldo Jair"
 plot(chickwts)
+#ola ke ase, acá viendo si se actualiza este coso jaja saludos
